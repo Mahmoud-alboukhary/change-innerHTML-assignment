@@ -1,0 +1,33 @@
+ body{
+        background-color: darkkhaki;
+            
+    }
+.photo-position{
+        float:right;
+        width:33%
+        clear:both;
+        border:4px ridge black;
+        }
+        
+.h1-font-size{
+        font-family:inherit monospace;
+        font-size: 50px;
+          
+    }
+.p-font-size{
+        font-size:18px;
+        line-height: 1.6em;
+        width: 76%;
+        margin-left: 10px;
+    }
+footer {
+	text-align: center;
+	
+}
+@media screen and (max-width:440px) {
+	img {
+		width : 280px;
+		
+	}
+}
+	
